@@ -16,7 +16,7 @@ I build end-to-end data projects with real open data, from raw data collection a
 A geospatial decision-support tool that maps surface heat across Berlin and ranks non-green hot zones where cooling interventions should be prioritised.
 - Combined official Berlin Climate Analysis 2022 data (WFS), OpenStreetMap green spaces and district boundaries
 - Found that green areas are **~1.0 °C cooler** on average than non-green areas
--    - Delivered as an interactive **Streamlit** dashboard with maps, KPIs and a priority table · **[▶ Live demo](https://berlin-heat-risk.streamlit.app/)**
+- Delivered as an interactive **Streamlit** dashboard with maps, KPIs and a priority table · **[▶ Live demo](https://berlin-heat-risk.streamlit.app/)**
 
 `Python` `GeoPandas` `OSMnx` `Folium` `Streamlit`
 
