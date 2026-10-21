@@ -28,11 +28,6 @@ A complete SQL analytics pipeline on **11,267 Berlin road accidents (2021)**: ra
 
 `PostgreSQL` `SQL` `Data Quality` `DBeaver`
 
-### 🗺️ [Urban Heat Island Analysis Berlin](https://github.com/Medhansh-Ahuja/urban-heat-berlin)
-An exploratory analysis of air temperature (DWD weather stations), green space and population density across Berlin's 12 districts, with a reproducible data pipeline.
-
-`Python` `GeoPandas` `Jupyter` `DWD Open Data`
-
 ---
 
 ## Skills
